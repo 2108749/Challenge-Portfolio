@@ -1,17 +1,18 @@
-#bannerimage {
-  width: 100%;
-  background-image: url(http://s30.postimg.org/x0ne0p5wx/bootsrap.png);
-  height: 120px;
-  background-color: rgb(97, 96, 96);
-  display: flex;
-  background-position: center;
-  
-}
+
 .container{
   display: flex;
   justify-content: center;
 }
 .button{
   display: flex;
-  justify-content: left;
+  justify-content: center;
+  align-items: center;
+  left: 50%;
+  right: 50%;
+}
+nav{
+  width: 100%;
+  height: 100px;
+  display: flex;
+  background-image: url(cropped-cropped-zwarte-balk.jpg);
 }
