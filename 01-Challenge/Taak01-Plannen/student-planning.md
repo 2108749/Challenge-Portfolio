@@ -15,7 +15,7 @@
 | Planning    | Planning maken                                 | 00:30 u             | Bezig  |
 | Ontwerpen   | Mockup van portfolio maken                     | 00:20 u             | bezig  |
 | ...         | Styling van elementen bepalen                  |                     |        |
-| Realiseren  | Bestanden aanmaken                             | 00:20 u             | bezig  |
+| Realiseren  | Bestanden aanmaken                             | 03:00 u             | bezig  |
 | ...         |                                                |                     |        |
 | Testen      | Applicatie testen                              | 00:15 u             | bezig  |
 | ...         |                                                |                     |        |
